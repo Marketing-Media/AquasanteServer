@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.3.0	2018/03/12 - 20:28:56: [ThemeRepository] Theme configuration file not found for theme at `/bitnami/prestashop/themes/classic/config/theme.yml`. at line 133 in file src/Core/Addon/Theme/ThemeRepository.php
+*ERROR* 	v1.7.3.0	2018/03/12 - 20:29:02: [ThemeRepository] Theme configuration file not found for theme at `/bitnami/prestashop/themes/classic/config/theme.yml`. at line 133 in file src/Core/Addon/Theme/ThemeRepository.php

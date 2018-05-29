@@ -1,0 +1,1 @@
+*ERROR* 	v1.7.3.0	2018/03/21 - 13:21:40: La longueur du champ CreditCardOfflinePaymentOrder->card_expiry_year est actuellement 4 caractères. Il doit être entre 0 et 2 caractères. at line 954 in file classes/ObjectModel.php
