@@ -1,0 +1,17 @@
+/* mce */
+.multilang .mce-tinymce.mce-panel {
+    background: none;
+    border: 0;
+}
+.multilang div.mce-edit-area {
+	max-height: none;
+}
+
+/* module positions */
+.module_col_icon {
+    padding-right: 15px;
+}
+.module_col_icon img {
+    max-width: 100%;
+}
+/* since 1.5.0 */
